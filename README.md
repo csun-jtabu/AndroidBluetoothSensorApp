@@ -14,3 +14,9 @@ Mini Project Images:
 
 Both Sensor readings work, but this image only shows when the Bluetooth Module is Disconnected 
 ![Ugly But Functional](Images/AndroidApp.jpg)
+
+
+Sources:
+https://developer.android.com/develop/connectivity/bluetooth
+https://developer.android.com/develop/ui/compose/tutorial
+https://developer.android.com/reference/android/hardware/SensorManager
