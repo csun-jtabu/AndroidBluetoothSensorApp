@@ -11,3 +11,6 @@ Mini Project Images:
 ![Actual Arduino Wiring](Images/ArduinoWiring.jpg)
 
 ![Another Perspective](Images/ArduinoWiring_2.jpg)
+
+Both Sensor readings work, but this image only shows when the Bluetooth Module is Disconnected 
+![Ugly But Functional](Images/AndroidApp.jpg)
