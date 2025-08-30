@@ -8,6 +8,6 @@ Assignment:
 Mini Project Images:
 ![Arduino Schematic](Images/ArduinoSchematic-AndroidBluetoothSensorApp.png)
 
-![Actual Arduino Wiring](ArduinoWiring.jpg)
+![Actual Arduino Wiring](Images/ArduinoWiring.jpg)
 
-![Another Perspective](ArduinoWiring_2.jpg)
+![Another Perspective](Images/ArduinoWiring_2.jpg)
